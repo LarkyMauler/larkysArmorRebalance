@@ -18,4 +18,5 @@ Feedback is welcome! all changes are WIP.
 Installation: download the .zip from releases, select File-> install Mod on Mod organizer Select the .zip
 Check larkysArmorRebalance at the bottom of your mod list, and launch GAMMA normally 
 Detailed Changes:
+
 https://docs.google.com/spreadsheets/d/1WhMr8BIReEUwtxIb4zh056js4HInGAKVaBqL55XM2bM/edit?gid=2056403404#gid=2056403404
